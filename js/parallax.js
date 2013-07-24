@@ -127,7 +127,7 @@ $(document).ready(function () {
             bg6.css({'backgroundPosition': newPos(50, windowHeight, pos, 1600, -0.15)});
         }
         if ($bg7.hasClass("inview")) {
-            bg7.css({'backgroundPosition': newPos(50, windowHeight, pos, -1500, 0.25)});
+            bg7.css({'backgroundPosition': newPos(50, windowHeight, pos, 1600, 0.25)});
         }
 
         // TODO add new rules if needed

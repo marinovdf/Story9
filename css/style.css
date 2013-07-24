@@ -14,8 +14,6 @@ h1, h2, h3, h4 {
 
 .video iframe {
     width: 620px;
-    margin-bottom: 30px;
-
 }
 
 section {
@@ -245,6 +243,19 @@ section #page5 {
     font-size: 18px;
     color: #636363;
     margin: 0px 0 40px 0;
+}
+
+.share-btn{
+    width: 148px;
+    height: 28px;
+    display: inline-block;
+    background: url(../img/share-btn.png) center center no-repeat;
+    margin-top: 10px;
+}
+
+.video .share-btn{
+    margin-bottom: 35px;
+
 }
 
 hr{
